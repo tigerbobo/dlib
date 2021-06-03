@@ -1,0 +1,4 @@
+add path:
+D:\youyb\application\cmake-3.17.1-win64-x64\bin
+
+pip install dlib
